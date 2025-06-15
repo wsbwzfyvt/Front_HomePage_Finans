@@ -1,6 +1,6 @@
 # FINANS - Suas Contas Descomplicadas
 
-Home page criado durante aula de Desenvolvimento Web utilizando HTML5 e CSS3 com [Bootstrap](https://getbootstrap.com/)
+Home page criado durante aula de Desenvolvimento Web utilizando HTML5 e CSS3.
 
 Desktop
 
